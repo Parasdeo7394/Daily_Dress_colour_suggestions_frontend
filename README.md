@@ -1,7 +1,7 @@
 ##1 AUTHENTIFICATION
 ##2 AUTHORIZATION
 ##3 AUTHENTIFICATION(Separate Dahboard for Users)
-##4 AUTHENTIFICATION(Separate Dahboard for Admin Mail :: paras7394@gmail.com , Pass:123456) with Create category,create Product ,Users order
+##4 AUTHENTIFICATION(Separate Dahboard for Admin ) with Create category,create Product ,Users order
 ##5 search ,Filter
 ##6 Category & Product Api CRUD
 ##7 Add to Cart
